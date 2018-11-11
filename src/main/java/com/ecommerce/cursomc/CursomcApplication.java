@@ -1,4 +1,4 @@
-package com.cursomc;
+package com.ecommerce.cursomc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
